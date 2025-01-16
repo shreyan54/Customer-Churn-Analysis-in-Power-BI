@@ -69,19 +69,23 @@ Creating a dashboard in Power BI that reflects all relevant Key Performance Indi
 ### **Screenshots**  
 
 ### **Call Data Overview Dashboard**  
-![Call Data Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
+![Call Data Overview](https://github.com/shreyan54/Customer-Churn-Analysis-in-Power-BI/blob/3962eb351fc931071db29ca37906cffcc93bfd31/Call%20center%20analysis.png)
+
 
 ### **Churn Analysis Dashboard**  
-![ChurnAnalysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
+![ChurnAnalysis](https://github.com/shreyan54/Customer-Churn-Analysis-in-Power-BI/blob/3962eb351fc931071db29ca37906cffcc93bfd31/Customer%20Churn.png)
 
 ### **Customer Risk Analysis Dashboard**  
-![Risk Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
+![Risk Analysis](https://github.com/shreyan54/Customer-Churn-Analysis-in-Power-BI/blob/3962eb351fc931071db29ca37906cffcc93bfd31/Customer%20risk.png)
+ 
 
 
 ### **HR Insights Dashboard**  
-![HR1 Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
+![HR1 Analysis](https://github.com/shreyan54/Customer-Churn-Analysis-in-Power-BI/blob/3962eb351fc931071db29ca37906cffcc93bfd31/Diversity%201.png)
 
-![HR2 Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
+
+![HR2 Analysis](https://github.com/shreyan54/Customer-Churn-Analysis-in-Power-BI/blob/3962eb351fc931071db29ca37906cffcc93bfd31/Diversity%202.png)
+
 
 ## **Key Findings** 
 
