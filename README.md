@@ -64,6 +64,25 @@ Creating a dashboard in Power BI that reflects all relevant Key Performance Indi
   - Trend in hiring , customer satisfaction rate.
 
 
+## **Final Output**  
+
+### **Screenshots**  
+
+### **Call Data Overview Dashboard**  
+![Call Data Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
+
+### **Churn Analysis Dashboard**  
+![ChurnAnalysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
+
+### **Customer Risk Analysis Dashboard**  
+![Risk Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
+
+
+### **HR Insights Dashboard**  
+![HR1 Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
+
+![HR2 Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
+
 ## **Key Findings** 
 
 1.	Churned Customers: Customers with higher monthly charges and lower service utilization, especially in critical areas like tech support and online security, displayed a higher tendency to leave.
